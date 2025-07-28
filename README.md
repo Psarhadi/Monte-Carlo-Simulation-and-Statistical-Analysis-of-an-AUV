@@ -2,7 +2,7 @@
 Monte Carlo Simulation and Statistical Analysis of an AUV (Autonomous Underwater Vehicle) in Python, 
 
 
-![Depth tracking](images/figure.png)
+![Depth tracking](images/MCS_z.png)
 
 
 > Feel free to use and amend the code with citation.
