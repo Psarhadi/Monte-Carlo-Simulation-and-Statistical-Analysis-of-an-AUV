@@ -8,7 +8,7 @@ Results for depth tracking over Monte Carlo runs:
 
 Final values for depth and yaw tracking:
 <p align="left">
-  <img src="images/MCS_CEP.png" alt="Figure 2" width="40%">
+  <img src="images/MCS_CEP.png" alt="Figure 2" width="30%">
 </p>
 
 > Feel free to use and amend the code with citation.
