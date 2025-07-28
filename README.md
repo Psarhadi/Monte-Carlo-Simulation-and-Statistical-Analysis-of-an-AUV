@@ -4,6 +4,8 @@ Monte Carlo Simulation and Statistical Analysis of an AUV (Autonomous Underwater
 
 ![Depth tracking](images/MCS_z.png)
 
+<img src="images/MCS_z.png" alt="Figure description" width="60%">
+
 
 > Feel free to use and amend the code with citation.
 
