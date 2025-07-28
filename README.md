@@ -5,7 +5,7 @@ Results for depth tracking over Monte Carlo runs:
 <img src="images/MCS_z.png" alt="Figure description" width="40%">
 
 Final values for depth and yaw tracking:
-<img src="images/MCS_CEP.png" alt="Figure description" width="40%">
+<img src="images/MCS_CEP.png" alt="Figure description" width="30%">
 
 
 > Feel free to use and amend the code with citation.
