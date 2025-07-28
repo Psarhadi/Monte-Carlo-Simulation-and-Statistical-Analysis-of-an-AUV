@@ -1,4 +1,4 @@
-# AUV-Autonomous-Underwater-Vehicle-Monte-Carlo-Simulation
+# Monte-Carlo-Simulation-Autonomous-Underwater-Vehicle
 The repo is for a Monte Carlo Simulation and Statistical Analysis framework of an AUV (Autonomous Underwater Vehicle) in Python to test and verify algorithms. 
 
 Results for depth tracking over Monte Carlo runs:
