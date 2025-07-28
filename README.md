@@ -3,12 +3,12 @@ The repo is for a Monte Carlo Simulation and Statistical Analysis framework of a
 
 Results for depth tracking over Monte Carlo runs:
 <p align="left">
-  <img src="images/MCS_z.jpg" alt="Figure 1" width="60%">
+  <img src="images/MCS_z.jpg" alt="Figure 1" width="40%">
 </p>
 
 Final values for depth and yaw tracking:
 <p align="left">
-  <img src="images/MCS_CEP.jpg" alt="Figure 1" width="60%">
+  <img src="images/MCS_CEP.jpg" alt="Figure 2" width="40%">
 </p>
 
 > Feel free to use and amend the code with citation.
