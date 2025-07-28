@@ -2,10 +2,10 @@
 The repo is for a Monte Carlo Simulation and Statistical Analysis framework of an AUV (Autonomous Underwater Vehicle) in Python to test and verify algorithms. 
 
 Results for depth tracking over Monte Carlo runs:
-<img src="images/MCS_z.png" alt="Figure description" width="60%">
+<img src="images/MCS_z.png" alt="Figure description" width="40%">
 
 Final values for depth and yaw tracking:
-<img src="images/MCS_CEP.png" alt="Figure description" width="60%">
+<img src="images/MCS_CEP.png" alt="Figure description" width="40%">
 
 
 > Feel free to use and amend the code with citation.
