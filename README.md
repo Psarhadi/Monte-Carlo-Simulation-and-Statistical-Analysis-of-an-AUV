@@ -1,10 +1,12 @@
-# AUV-Autonomous-Underwater-Vehicle-Six-DOF-Simulation
-Monte Carlo Simulation and Statistical Analysis of an AUV (Autonomous Underwater Vehicle) in Python, 
+# AUV-Autonomous-Underwater-Vehicle-Monte-Carlo-Simulation
+The repo is for a Monte Carlo Simulation and Statistical Analysis framework of an AUV (Autonomous Underwater Vehicle) in Python to test and verify algorithms. 
 
-
-![Depth tracking](images/MCS_z.png)
+Results for depth tracking over Monte Carlo runs:
 
 <img src="images/MCS_z.png" alt="Figure description" width="60%">
+
+Final values for depth and yaw tracking:
+<img src="images/MCS_CEP.png" alt="Figure description" width="60%">
 
 
 > Feel free to use and amend the code with citation.
