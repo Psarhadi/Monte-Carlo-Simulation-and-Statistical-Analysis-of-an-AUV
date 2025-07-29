@@ -3,7 +3,7 @@ The repo is for a Monte Carlo Simulation and Statistical Analysis framework of a
 
 
 Results for depth tracking over Monte Carlo runs:
-<p align="left">
+<p align="center">
   <img src="images/MCS_z.png" alt="Figure 1" width="40%">
 </p>
 
